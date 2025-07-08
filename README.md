@@ -1,0 +1,2 @@
+# ItemFramePlugin
+一个Spigot插件用于获取展示框内物品
