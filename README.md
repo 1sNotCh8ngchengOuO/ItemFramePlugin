@@ -2,6 +2,8 @@
 ## 简介
 - 一个Spigot插件用于获取展示框内物品
 - A Spigot plugin for obtaining items from item frames
+- 支持≥1.12的Spigot服务端
+- Support Spigot server with ≥ 1.12
 
 ## 功能
 - 当展示框内存在物品时，生存模式左键或右键打开界面
