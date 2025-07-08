@@ -1,0 +1,4 @@
+name: ItemFrame
+version: '${project.version}'
+description: Right-click the ItemFrame to obtain the item inside.
+main: com.isnotchangcheng.main
